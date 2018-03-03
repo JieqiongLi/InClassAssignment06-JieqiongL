@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Animal Info</string>
+    <string name="album_description_name">Animal name</string>
+    <string name="has_fur">Has fur?</string>
+    <string name="album_description_legs">Legs</string>
+    <string name="submit">Submit</string>
+    <string-array name="habitat_array">
+        <item>Terrestrial</item>
+        <item>Aerial</item>
+        <item>Arboreal</item>
+        <item>Aquatic</item>
+        <item>Amphibians</item>
+    </string-array>
+</resources>
